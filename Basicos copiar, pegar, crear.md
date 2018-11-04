@@ -17,3 +17,8 @@ Mkdir tiene una opción bastante útil que permite crear un árbol de directorio
 
 $ mkdir -p /home/ejercicios/prueba/uno/dos/tres
 
+</br>
+
+### Mv
+
+mv para mover archivos

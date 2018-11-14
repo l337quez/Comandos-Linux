@@ -3,6 +3,9 @@
 
 
 /sbin/reboot
+
+</br>
+
 /sbin/shutdonw
 
 ## Información del sistema
